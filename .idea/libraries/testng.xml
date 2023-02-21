@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="testng" type="repository">
+    <properties maven-id="org.testng:testng:6.10" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.48/jcommander-1.48.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
